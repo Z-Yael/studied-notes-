@@ -4,3 +4,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Z-Yael/studied-notes-.git
 git push -u origin main
+
+now first commit is added and I created 
+second commit below cli.
